@@ -13,8 +13,8 @@
   Step 5: Convert the plaintext to hexadecimal then print as an ASCII string
   
   Inputs (hex-encoded): ciphertext (c)
-						modulus (N)
-						encryption key (e)
+			modulus (N)
+			encryption key (e)
   Output: Prints decrypted output message as a string
 
   Sources used for RSA:
