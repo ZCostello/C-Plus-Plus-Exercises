@@ -23,7 +23,6 @@
   Schneier, B., Kohno, T., & Ferguson, N. (2013). Cryptography engineering: design principles and practical applications. Wiley.
   
   Author: Zack Costello
-  Email: costellozd@outlook.com
   Created: v1.0 10/03/2020
   
   v1.0: Fulfills criteria for BAE challenge.
