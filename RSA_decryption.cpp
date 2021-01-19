@@ -25,7 +25,7 @@
   Author: Zack Costello
   Created: v1.0 10/03/2020
   
-  v1.0: Fulfills criteria for BAE challenge.
+  v1.0: Fulfills criteria.
         Removed "using namespace std".
 */
 
