@@ -1,6 +1,6 @@
 # C++ Coding Exercises
 
-## RSA_decrypter
+## RSA Decrypter
 
 Program to decrypt public-key RSA (for small keys). Created for a programming challenge.
   
