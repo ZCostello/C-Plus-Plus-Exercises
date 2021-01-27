@@ -1,5 +1,5 @@
 /*
-  RSA_decryption.cpp
+  RSADecryptor.cpp
   Program to decrypt public-key RSA (for small keys).
   
   Step 1: Given a ciphertext (c), modulus (N) and encryption key (e).
